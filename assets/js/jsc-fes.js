@@ -173,7 +173,7 @@
 $("#countdown").countdown(
   {
     //The countdown end date
-    date: "31 Mars 2023 00:00:00",
+    date: "06 August 2022 00:00:00",
 
     // on (03:07:52) | off (3:7:52) - two_digits set to ON maintains layout consistency
     format: "on",
@@ -181,7 +181,7 @@ $("#countdown").countdown(
 
   function () {
     // This will run when the countdown ends
-    alert("Evènement annulé à cause du COVID-19");
+    alert("Evènement termine, Merci à tous! IT was great!");
   }
 );
 
