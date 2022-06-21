@@ -262,7 +262,7 @@ section {
 
 #showcase:before {
   content: "";
-  background-image: url("../images/jsc-fes-img/showcase.png");
+  background-image: url("../images/showcase.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -1218,7 +1218,7 @@ h4.fonction {
 
 #contact #palace {
   flex: 1;
-  background: url(../images/jsc-fes-img/theatre-royal-marrakech.jpg) no-repeat center/cover;
+  background: url(../images/theatre-royal-marrakech.jpg) no-repeat center/cover;
 }
 
 /* Footer */
