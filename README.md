@@ -1,4 +1,4 @@
-## Scientific and Cultural weekend of the comorian student in Morocco
+## 18e Scientific and Cultural weekend of the comorian student in Morocco
 
 Each branch of the repository represents each year of the event. Unfortunately the 2021 was cancelled due to the COVID-19 pandemic.
 
