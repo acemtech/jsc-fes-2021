@@ -1,4 +1,4 @@
-# Scientific and cultural day in Fes 2021
+# Scientific and cultural day in Marrakech 2022
 
 **Unfortunately the event did not happened due to the COVID-19 pandemic (STAY SAFE)**
 
