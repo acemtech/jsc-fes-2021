@@ -16,7 +16,7 @@ Since 2002, the Scientific and Cultural day aims to promote the Comorian culture
 <p style="text-align: justify">The year of <b>2022</b> marks the 18th edition of the cultural comorian day in the kingdom of Morocco. Comorians who are studying in the imperial city of the kingdom, Marrakech, took the challenge to organize, prepare and host the event. <br></p>
 
 The eminent cultural weekend is divided by two section: 
-  * Scientific day (saturday 06-08-2022) events (9h30 - 17h30), which are organize and prepared by the scientific commission from comorians students in Marrakech but not only.
+  * Scientific day (saturday 06/08/2022) events (9h30 - 17h30), which are organize and prepared by the scientific commission from comorians students in Marrakech but not only.
 In these events, scientifics topics are getting tackled, from debats, conferences to exposition, and so on and so forth. 
 A lot of surprises will be added in the scientifics events this year.
 
