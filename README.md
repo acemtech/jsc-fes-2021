@@ -1,13 +1,10 @@
 # Scientific and cultural day in Marrakech 2022
 
-**Unfortunately the event did not happened due to the COVID-19 pandemic (STAY SAFE)**
-
-
-## 18E Scientific and Cultural weekend of the comorian student in Morocco
+## 18e Scientific and Cultural weekend of the comorian student in Morocco
 
 Each branch of the repository represents each year of the event. Unfortunately the 2021 was cancelled due to the COVID-19 pandemic.
 
-### [Production Live Demo](http://acemtech.org/jsc-fes-2021/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
+### [Production Live Demo](http://acemtech.org/wsc-marrakech-2022/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
 
 ### History
 
@@ -31,8 +28,8 @@ For more details check the official website of the event.
 
  ### Author
  [AL-FAHAMI TOIHIR](https://alfahami.github.io/ "Resume")
- 
- [ACEM FEZ](http://www.acemfes.com "Coming Soon")
+
+ [ACEM TECH](http://www.acemtech.org "Coming Soon")
 
  
  COMPUTER SCIENCES & APPLIED MATHEMATICS CLUB
