@@ -1,3 +1,5 @@
+# Scientific and cultural day in Marrakech 2022
+
 ## 18e Scientific and Cultural weekend of the comorian student in Morocco
 
 Each branch of the repository represents each year of the event. Unfortunately the 2021 was cancelled due to the COVID-19 pandemic.
@@ -26,8 +28,9 @@ For more details check the official website of the event.
 
  ### Author
  [AL-FAHAMI TOIHIR](https://alfahami.github.io/ "Resume")
- 
+
  [ACEM TECH](http://www.acemtech.org "Coming Soon")
+
  
  COMPUTER SCIENCES & APPLIED MATHEMATICS CLUB
  
