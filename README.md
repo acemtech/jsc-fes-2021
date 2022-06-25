@@ -1,6 +1,6 @@
 ## Scientific and Cultural day of the comorian student in Morocco
 
-**Unfortunately, the event did happened due to the COVID-19 pandemic**
+**Unfortunately, the event did happened due to the COVID-19 pandemic (STAY SAFE)**
 
 ### [Production Live Demo](http://acemtech.org/jsc-fes-2021/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
 
