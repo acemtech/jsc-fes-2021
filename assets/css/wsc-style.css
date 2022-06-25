@@ -93,6 +93,10 @@ body {
   margin-top: 0;
 }
 
+.italic {
+	font-style: italic;
+}
+
 .centered {
   display: flex;
   align-items: center;
@@ -262,7 +266,7 @@ section {
 
 #showcase:before {
   content: "";
-  background-image: url("../images/jsc-fes-img/showcase.jpg");
+  background-image: url("../images/showcase.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -285,8 +289,13 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(0, 0, 0, 0.72);
 }
+
+.fb-share-button {
+    float: right;
+  	
+ }
 
 #showcase .showcase-content .item:last-child {
   position: absolute;
@@ -798,7 +807,7 @@ a.animated-button.thar-one:before {
   width: 16px;
   height: 10px;
   position: absolute;
-  background: #00c4f3;
+  background: #66d37e;
   z-index: 5;
   left: 0;
   right: 0;
@@ -809,7 +818,7 @@ a.animated-button.thar-one:before {
 }
 
 .timeline .hexa:before {
-  border-bottom: 4px solid #00c4f3;
+  border-bottom: 4px solid #66d37e;
   border-left-width: 8px;
   border-right-width: 8px;
   top: -4px;
@@ -818,7 +827,7 @@ a.animated-button.thar-one:before {
 .timeline .hexa:after {
   border-left-width: 8px;
   border-right-width: 8px;
-  border-top: 4px solid #00c4f3;
+  border-top: 4px solid #66d37e;
   bottom: -4px;
 }
 
@@ -892,7 +901,7 @@ a.animated-button.thar-one:before {
 }
 
 .time {
-  background: #00c4f3;
+  background: #66d37e;
   display: inline-block;
   padding: 8px;
 }
@@ -1218,7 +1227,7 @@ h4.fonction {
 
 #contact #palace {
   flex: 1;
-  background: url(../images/jsc-fes-img/elhourria.jpg) no-repeat center/cover;
+  background: url(../images/theatre-royal-marrakech.jpg) no-repeat center/cover;
 }
 
 /* Footer */

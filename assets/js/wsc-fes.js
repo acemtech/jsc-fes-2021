@@ -173,7 +173,7 @@
 $("#countdown").countdown(
   {
     //The countdown end date
-    date: "31 Mars 2023 00:00:00",
+    date: "06 August 2022 00:00:00",
 
     // on (03:07:52) | off (3:7:52) - two_digits set to ON maintains layout consistency
     format: "on",
@@ -181,7 +181,7 @@ $("#countdown").countdown(
 
   function () {
     // This will run when the countdown ends
-    alert("Evènement annulé à cause du COVID-19");
+    alert("Evènement termine, Merci à tous! IT was great!");
   }
 );
 
@@ -312,3 +312,11 @@ function init() {
   // Init TypeWriter
   new TypeWriter(txtElement, words, wait);
 }
+// Load facebook share button
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
