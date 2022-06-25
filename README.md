@@ -2,7 +2,7 @@
 
 Each branch of the repository represents each year of the event. Unfortunately the 2021 was cancelled due to the COVID-19 pandemic.
 
-### [Production Live Demo](http://acemtech.org/jsc-fes-2021/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
+### [Production Live Demo](http://acemtech.org/wsc-marrakech-2022/) | [Template Live Demo](https://alfahami.github.io/jsc-fes-2020-template/)
 
 ### History
 
